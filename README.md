@@ -1,6 +1,7 @@
-### Hi there 👋, I am Irfat Mahmood Turkey 😊.
-####🌏 Web Application and 📱 Mobile Application Developer.
-🫠 I am a professional Web Application and Mobile Application developer with more than 3 years of experience. I had developed more than 7 web applications and 2 mobile application for my local clients. Currently, I am working at a Private University's IT department as a Software Developer.🙂
+###Hi there 👋, I am Irfat Mahmood Turkey 😊.
+####Web Application🌏 and Mobile Application📱 Developer.
+
+I am a professional Web Application and Mobile Application developer with more than 3 years of experience. I had developed more than 7 web applications and 2 mobile application for my local clients. Currently, I am working at a Private University's IT department as a Software Developer.🙂
 ![Web Application and Mobile Application Developer.](https://media.licdn.com/dms/image/C4E16AQHCNatZkZFuHQ/profile-displaybackgroundimage-shrink_350_1400/0/1634742592492?e=1689811200&v=beta&t=H2ryCiz4twO9Y-Hd86wv02SvdhGfoyTi9b5nDQXb2R0)
 
 #####🤹 Skills:
