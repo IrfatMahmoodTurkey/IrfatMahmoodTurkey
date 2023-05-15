@@ -28,7 +28,5 @@ I am a professional Web Application and Mobile Application developer with more t
 - ✅ East Delta University, Chattorgram, Bangladesh. (Executive, Software Development, IT Services).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfatMahmoodTurkey)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=IrfatMahmoodTurkey&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/IrfatMahmoodTurkey)  
-
+ 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=IrfatMahmoodTurkey) 
