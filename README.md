@@ -15,7 +15,12 @@ I am a professional Web Application and Mobile Application developer with more t
 - ✅ Node.js with Express.js & Nest.js (Typescript).
 - ✅ MS SQL Server and MySQL Database (Relational).
 - ✅ MongoDb (Non Relational).
-
+- ✅ Repository Pattern.
+- ✅ N tier Architecture & Onion Architecture.
+- ✅ Dependancy Injection.
+- ✅ State Management with Provider & Bloc (Stream Controller) in Flutter.
+- ✅ State Management with Behaviour Subject (rxjs) in Angular.
+- 
 ### 🖥️ Some Major Projects:
 - ✅ Space Rent App. (User End: Flutter(Mobile App), Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
 - ✅ Stock & Sell Management System. (User & Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
