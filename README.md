@@ -17,7 +17,7 @@ I am a professional Web Application and Mobile Application developer with more t
 - ✅ N tier Architecture & Onion Architecture.
 - ✅ Dependancy Injection.
 - ✅ State Management with Provider & Bloc (Stream Controller) in Flutter.
-- ✅ State Management with Behaviour Subject (rxjs) in Angular.
+- ✅ State Management with Behaviour Subject (rxjs) and NgRx in Angular.
 
 ### 🖥️ Some Major Projects:
 - ✅ Space Rent App. (User End: Flutter(Mobile App), Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
