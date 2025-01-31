@@ -20,9 +20,9 @@ I am a professional Web Application and Mobile Application developer with more t
 - ✅ State Management with Behaviour Subject (rxjs) and NgRx in Angular.
 
 ### 🖥️ Some Major Projects:
-- ✅ DigiPOS Web Application. (User & Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
+- ✅ M.POS Web Application. (User & Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
 - ✅ Space Rent App. (User End: Flutter(Mobile App), Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
 - ✅ My Wallet App. (User End: Flutter (Mobile App), Backend API: Node.js with Express, Database: MongoDb).
   
 ### 🏃‍♂️ Currently Working Projects:
-- ⚠️ DigiPOS Web Application. (Code Refactoring, Bug Fixing, and Performace Optimizing).
+- ⚠️ M.POS Web Application. (Code Refactoring, Bug Fixing, and Performace Optimizing).
