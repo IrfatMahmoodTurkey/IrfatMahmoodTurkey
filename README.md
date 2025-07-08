@@ -21,6 +21,3 @@ I am a professional Web Application and Mobile Application developer with more t
 
 ### 🖥️ Some Major Projects:
 - ✅ M.POS Web Application. (User & Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
-  
-### 🏃‍♂️ Currently Working Projects:
-- ⚠️ M.POS Web Application. (Code Refactoring, Bug Fixing, and Performace Optimizing).
