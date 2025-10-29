@@ -1,9 +1,6 @@
 <h1>Hello there 👋, I am Irfat Mahmood Turkey 😊.</h1> 
-<h3>Web Application🌏 and Mobile Application📱 Developer.</h3>
-
-I am a professional Web Application and Mobile Application developer with more than 3 years of experience. I had developed more than 7 web applications and 2 mobile application for my local clients. Currently, I am working at a Private University's IT department as a Software Developer.🙂
-
-### 🤹 Skills:
+<h3>Web Application Developer.</h3>
+### 🤹 Software Development Skills:
 - ✅ ASP.NET Core, MVC, Web API with C#.
 - ✅ HTML, CSS, Bootstrap, JavaScript. 
 - ✅ Angular with TypeScript.
@@ -18,6 +15,3 @@ I am a professional Web Application and Mobile Application developer with more t
 - ✅ MongoDb (Non Relational).
 - ✅ State Management with Provider & Bloc (Stream Controller) in Flutter.
 - ✅ State Management with Behaviour Subject (rxjs) and NgRx in Angular.
-
-### 🖥️ Some Major Projects:
-- ✅ M.POS Web Application. (User & Admin End: Angular (Web), Backend API: ASP.NET Core MVC WEB API, Database: MS SQL Server).
