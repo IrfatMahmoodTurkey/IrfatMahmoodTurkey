@@ -43,6 +43,11 @@ Multi-tenant architecture with login redirection, authorisation code exchange, t
 **2. M.Small Shop — Items, Purchase, Sales, Return & Cost Management System**
 Item management, purchase and stock control, sell management, lost/expired item tracking, dues management, return management, cost/expense management, and cash & bank transaction management.
 
+**3. EDU Student Service Portal**
+Apply for paid services, make payments for applied services, view clearances of applied services, view/download uploaded letters, manage applied services, give clearances by offices, and real-time + email notifications to users.
+
+**4. Recruitment Management System — Pizza Shop**
+Entry of interview records for candidates, clearances given by different roles, and email notifications to relevant users and candidates.
 ---
 
 ### 🌐 Open Source Projects
