@@ -6,10 +6,8 @@ I build scalable, real-world business systems — from admissions platforms to P
 </p>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/certificates/iframe/75c84ac86bf1"><img src="https://img.shields.io/badge/HackerRank-C%23%20Basic-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/certificates/iframe/f483910ae106"><img src="https://img.shields.io/badge/HackerRank-Angular%20Basic-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/certificates/iframe/7ae45cd17f30"><img src="https://img.shields.io/badge/HackerRank-Angular%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/certificates/iframe/ce193b43f540"><img src="https://img.shields.io/badge/HackerRank-SQL%20Intermediate-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
+  <a href="mailto:irfat.ctg.775@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/irfatmahmoodturkey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -56,6 +54,28 @@ Entry of interview records for candidates, clearances given by different roles, 
 **NG-IM-Form-Bootstrap**
 JSON-driven dynamic forms with Bootstrap 5 responsive UI and Angular Reactive Forms integration. Built-in validation, reusable layouts, customizable controls, and extensible architecture.
 🔗 [Live Docs / Website](https://irfatmahmoodturkey.github.io/ng-im-form-bootstrap-official-website/)
+
+---
+
+### 🎓 Trainings
+ 
+- **Web Application Development (ASP.NET)** at BITM.
+- **Mobile Application Development (Android)** at Mobile Application and Game Project under ICT Ministry of Bangladesh.
+
+---
+ 
+### 🏆 Awards
+ 
+- **Student of the Batch** in Web Application Development (ASP.NET) training course at BITM.
+
+---
+
+### 📜 Certifications
+ 
+- **C# Basic** — [HackerRank](https://www.hackerrank.com/certificates/iframe/75c84ac86bf1)
+- **Angular Basic** — [HackerRank](https://www.hackerrank.com/certificates/iframe/f483910ae106)
+- **Angular Intermediate** — [HackerRank](https://www.hackerrank.com/certificates/iframe/7ae45cd17f30)
+- **SQL Intermediate** — [HackerRank](https://www.hackerrank.com/certificates/iframe/ce193b43f540)
 
 ---
 
