@@ -57,7 +57,7 @@ JSON-driven dynamic forms with Bootstrap 5 responsive UI and Angular Reactive Fo
 
 <p align="left">
   <a href="mailto:irfat.ctg.775@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/irfatmahmoodturkey)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/irfatmahmoodturkey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Open to freelance and full-time opportunities in Backend with .NET Core, Frontend with Angular, and full-stack web development.</i></p>
