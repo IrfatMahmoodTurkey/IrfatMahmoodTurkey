@@ -48,6 +48,7 @@ Apply for paid services, make payments for applied services, view clearances of 
 
 **4. Recruitment Management System — Pizza Shop**
 Entry of interview records for candidates, clearances given by different roles, and email notifications to relevant users and candidates.
+
 ---
 
 ### 🌐 Open Source Projects
