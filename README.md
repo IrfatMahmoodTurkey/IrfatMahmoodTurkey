@@ -71,7 +71,8 @@ JSON-driven dynamic forms with Bootstrap 5 responsive UI and Angular Reactive Fo
 ---
 
 ### 📜 Certifications
- 
+
+- **Software Engineer** — [HackerRank](https://www.hackerrank.com/certificates/iframe/27aca3251976)
 - **C# Basic** — [HackerRank](https://www.hackerrank.com/certificates/iframe/75c84ac86bf1)
 - **Angular Basic** — [HackerRank](https://www.hackerrank.com/certificates/iframe/f483910ae106)
 - **Angular Intermediate** — [HackerRank](https://www.hackerrank.com/certificates/iframe/7ae45cd17f30)
